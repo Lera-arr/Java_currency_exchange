@@ -13,7 +13,6 @@ import java.util.Scanner;
                     System.out.println( toEURO(rur,course));
                 }
             }
-
             static double toEURO (int rur, double course){
                 return rur / course;
             }
